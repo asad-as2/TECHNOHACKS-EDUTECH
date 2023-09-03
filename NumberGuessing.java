@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task1 {
+public class NumberGuessing {
 
     public static void main(String[] args) {
         int number = (int) (Math.random() * 100) + 1;
